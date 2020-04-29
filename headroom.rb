@@ -11,6 +11,6 @@ class Headroom < Formula
     end
   
     test do
-      system "#{bin}/headroom --version"
+      system "#{bin}/headroom --help"
     end
   end
