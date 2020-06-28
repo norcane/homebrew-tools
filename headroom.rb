@@ -1,8 +1,8 @@
 class Headroom < Formula
     desc "Manager for license headers in source code files"
     homepage "https://github.com/vaclavsvejcar/headroom"
-    url "https://github.com/vaclavsvejcar/headroom/releases/download/v0.2.2.1/headroom-v0.2.2.1-osx.tar.gz"
-    sha256 "588d6f1c0e3d687e7f9a298a3dba2e580e15c312b7df2144becdbb16fc4d8f5c"
+    url "https://github.com/vaclavsvejcar/headroom/releases/download/v0.3.0.0/headroom-v0.3.0.0-osx.tar.gz"
+    sha256 "14f9a3c50cbeaa740e3447d25871ec2636684bdce7526f45a28c297147c5eead"
   
     bottle :unneeded
   
